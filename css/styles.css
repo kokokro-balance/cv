@@ -1,0 +1,28 @@
+body {
+    background-color: #FFC5C5 ;
+}
+h1 {
+    color: white;
+    font-size: 75px;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(28, 133, 91), 0 0 5px rgb(4, 60, 17);
+  }
+
+hr {
+    background-color: none;
+    border-style: dotted none none;
+    height: 0px;
+    border-width: 5px;
+    border-color: #196437;
+    width: 5%;
+}
+
+h2{
+    color: #087425;
+}
+h3{
+    color:#06561a;
+}
+th{
+    color:#075b20;
+}
+
